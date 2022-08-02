@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+data/
+
+# build directory
+build/
+
+# ignore xcode project file
+*.xcodeproj
+
+# Prerequisites
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

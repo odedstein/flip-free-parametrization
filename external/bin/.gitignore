@@ -1,0 +1,3 @@
+#Ignore everything in this folder except for the gitignore, the binaries go here
+*
+!.gitignore
